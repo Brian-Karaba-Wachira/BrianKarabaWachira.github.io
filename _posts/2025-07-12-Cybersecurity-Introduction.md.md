@@ -3,8 +3,6 @@ title: "Cybersecurity Introduction"
 date: 2025-07-12T15:34:30-04:00
 categories:
   - blog
-tags:
-  - Introduction
 ---
 
 What comes in the mind of a normal human being when he hears of cybersecurity is " Hacking and Illegal aspects of it".
