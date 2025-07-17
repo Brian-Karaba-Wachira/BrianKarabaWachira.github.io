@@ -1,5 +1,5 @@
 ---
-title: "Post: Cybersecurity Mindset"
+title: "Cybersecurity Mindset"
 last_modified_at: 2025-07-17T16:20:02-05:00
 categories:
   - Blog
