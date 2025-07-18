@@ -69,7 +69,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/brian-karaba-wachira/"
-    - name: Contact
+    - name: "Contact"
       url: "mailto:wachirabriankaraba26@gmail.com"
       label: "Email Me"
 footer:
