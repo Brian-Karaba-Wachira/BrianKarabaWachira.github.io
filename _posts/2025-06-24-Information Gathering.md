@@ -14,3 +14,5 @@ Tool: Instagram,Tiktok,X,Youtube,Google search
 used passive mode to avoid detection
 
 Got a lot of data, Including ip addresses and sub domains.Good start for further exploitation!!!
+
+Leson Learned: Exposing important details in social media platforms can really have a great impact on your safety especially if you are a great figure or if you hold a great position in a high ranking organisation.
