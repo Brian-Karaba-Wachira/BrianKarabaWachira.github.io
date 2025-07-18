@@ -59,6 +59,7 @@ author:
   name   : "Brian Karaba Wachira"
   avatar : "/assets/images/Official Photo 3.jpg"
   bio    : "Passionate about safeguarding digital assets and staying ahead of evolving cyber threats."
+  email  : "Contact: wachirabriankaraba26@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,12 +70,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/brian-karaba-wachira/"
-    - name: "Contact"
-      url: "mailto:wachirabriankaraba26@gmail.com"
-      label: "Email Me"
-    - label: "Email"
-      icon: "envelope"
-      url: "mailto:wachirabriankaraba26@gmail.com"
       
 footer:
   links:
