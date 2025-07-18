@@ -72,6 +72,10 @@ author:
     - name: "Contact"
       url: "mailto:wachirabriankaraba26@gmail.com"
       label: "Email Me"
+    - label: "Email"
+      icon: "envelope"
+      url: "mailto:wachirabriankaraba26@gmail.com"
+      
 footer:
   links:
     - label: "GitHub"
