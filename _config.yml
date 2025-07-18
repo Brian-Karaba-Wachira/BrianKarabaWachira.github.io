@@ -58,11 +58,10 @@ plugins:
 author:
   name   : "Brian Karaba Wachira"
   avatar : "/assets/images/Official Photo 3.jpg"
-  bio    : "Passionate about safeguarding digital assets and staying ahead of evolving cyber threats."
+  bio    : "Passionate about safeguarding digital assets and staying ahead of evolving cyber threats.
+  
+  Email: wachirabriankaraba26@gmail.com"
   email  : "wachirabriankaraba26@gmail.com"
-  email_contact:
-    - label: "Email Us"
-    - link: "mailto:wachirabriankaraba26@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
