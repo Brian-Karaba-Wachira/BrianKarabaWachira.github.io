@@ -2,5 +2,5 @@
 permalink: /CV/
 title: "Curriculum Vitae"
 ---
-<embed src="{{ site.baseurl }}/assets/images/BRIAN_KARABA_WACHIRA_CV.pdf" width="100%" height="100%" type="application/pdf">
-Hello
+<iframe src="{{ site.baseurl }}assets/images/BRIAN_KARABA_WACHIRA_CV.pdf" width="100%" height="100%" style="border: none;"></iframe>
+hello
